@@ -1,9 +1,4 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for cmpt120imageManip.py
-# Author(s): Faiza Tabassum(301470578), Shadan Namazifard(301475038)
-# Group: ProjectYAIPGroup- 112
-# Date: Dec. 6 2021
-# Description: 
+
 """
 Every function for the manipulations is defined here 
 later used in main.py where they are executed. 
