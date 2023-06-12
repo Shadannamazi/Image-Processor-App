@@ -1,9 +1,4 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for main.py
-# Author(s): Faiza Tabassum(301470578), Shadan Namazifard(301475038)
-# Group: ProjectYAIPGroup- 112
-# Date: Dec. 6 2021
-# Description: 
+
 """
 This project deals with how to manipulate images using python.
 Here we call all the functions to do the manipulations. 
